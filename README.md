@@ -4,6 +4,8 @@ A custom status line plugin for [Claude Code](https://claude.ai/claude-code) tha
 
 ![Status Line Demo](https://img.shields.io/badge/facts-1000+-blue) ![Categories](https://img.shields.io/badge/categories-20-green) ![Python](https://img.shields.io/badge/python-3.6+-yellow)
 
+![Demo](demo.svg)
+
 ## Features
 
 - **1,000+ curated facts** across 20 categories
